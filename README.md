@@ -4,7 +4,7 @@ very cool csgo auto executable
 you can change the crosshair config files to your own wishes
 
 ### Good to know
-The config is clamping fps in mainmenu to 144 and ingame to 250.
+The config is clamping fps in mainmenu to 144 and ingame to unlimited.
 It also removes the ability to select a clantag.
 Any saved binds before loading the config will be removed.
 
@@ -12,10 +12,6 @@ Any saved binds before loading the config will be removed.
 Because we are all different, you can change your preffered settings under the **USER PREFRENCE** tab
 
 ### Binds
-##### Special
-    slowwalk: v
-    autostop: n
-> you can also change the slowwalk speed in the config file, default is 50
 ##### Communication
     voice chat: x
     ping position: mouse5
@@ -43,6 +39,3 @@ Because we are all different, you can change your preffered settings under the *
     3: slot3 & cl_righthand 0 & knifecrosshair
     4: slot4 & cl_righthand 1 & grenadecrosshair
     5: slot5 & cl_righthand 0 & knifecrosshair
-    
-### Issues
-  - auto stop and slowwalk dont work together
