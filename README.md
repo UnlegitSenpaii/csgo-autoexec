@@ -1,8 +1,8 @@
-# csgo-autoexec
+# cs2-autoexec
 
 [`csgo` config](https://github.com/UnlegitSenpaii/csgo-autoexec/tree/csgo)
 
-very cool csgo auto executable
+very cool cs2 auto executable
 
 you can change the crosshair config files to your own wishes
 
