@@ -22,15 +22,15 @@ Because we are all different, you can change your preffered settings under the *
     team chat:       u
     
 ##### Other
-    console:        ^
-    scoreboard:     tab
-    noclip:         z
-    healthshot:     j
-    buymenu:        b
-    spraymenu:      t
-    lastitem:       q
-    dropitem:       g
-    recoil cross:   c
+    console:         ^
+    scoreboard:      tab
+    noclip:          z
+    healthshot:      j
+    buymenu:         b
+    spraymenu:       t
+    lastitem:        q
+    dropitem:        g
+    recoil cross:    c
     
 ##### Movement
     jump: mwhellup, mwheeldown, space
