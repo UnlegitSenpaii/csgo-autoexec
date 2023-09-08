@@ -1,4 +1,7 @@
 # csgo-autoexec
+
+[`csgo` config](https://github.com/UnlegitSenpaii/csgo-autoexec/tree/csgo)
+
 very cool csgo auto executable
 
 you can change the crosshair config files to your own wishes
