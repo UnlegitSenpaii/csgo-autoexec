@@ -16,20 +16,21 @@ Because we are all different, you can change your preffered settings under the *
 
 ### Binds
 ##### Communication
-    voice chat: x
-    ping position: mouse5
-    all chat: y
-    team chat: u
+    voice chat:      x
+    ping position:   mouse5
+    all chat:        y
+    team chat:       u
     
 ##### Other
-    console: ^
+    console:               ^
     netgraph & scoreboard: tab
-    noclip: z
-    healthshot: j
-    buymenu: b
-    spraymenu: t
-    lastitem: q
-    dropitem: g
+    noclip:                z
+    healthshot:            j
+    buymenu:               b
+    spraymenu:             t
+    lastitem:              q
+    dropitem:              g
+    recoil cross:          c
     
 ##### Movement
     jump: mwhellup, mwheeldown, space
